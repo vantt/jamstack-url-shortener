@@ -3,7 +3,7 @@ import React, { useEffect } from "react"
 const NotFoundPage = () => {
     useEffect(() => {
         window.location.replace(
-            'https://fwg.vn'
+            'https://to.fwg.vn'
         );
     }, []);
 
